@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<guidanceExplorer xmlns="urn:microsoft:guidanceexplorer">
+  <library name="553a1361-fd43-446a-8cc8-b5fc4b3468ce" caption="PDF Policy Sections">
+    <libraryStructure>
+      <view caption="Minimum Security Standards for Application Development Policy" id="75e393e1-e2a6-46a9-bb76-ca650db5ce60" creationDate="0001-01-01T00:00:00">
+        <items>
+          <item>00000000-0000-0000-0000-000000745d2f</item>
+          <item>00000000-0000-0000-0000-0000004df85b</item>
+          <item>00000000-0000-0000-0000-0000001f66bc</item>
+        </items>
+      </view>
+    </libraryStructure>
+    <items />
+  </library>
+</guidanceExplorer>

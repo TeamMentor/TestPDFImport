@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<TeamMentor_Article Metadata_Hash="0" Content_Hash="0">
+  <Metadata>
+    <Id>00000000-0000-0000-0000-000000745d2f</Id>
+    <Library_Id>553a1361-fd43-446a-8cc8-b5fc4b3468ce</Library_Id>
+    <Title>Introduction</Title>
+    <Category>Any</Category>
+    <Phase>Any</Phase>
+    <Technology>Any</Technology>
+    <Type>Policy</Type>
+    <DirectLink>Introduction</DirectLink>
+    <Author />
+    <Priority />
+    <Status />
+  </Metadata>
+  <Content Sanitized="false" DataType="html">
+    <Data><![CDATA[<h1>State of Vermont</h1>
+  <h2>Minimum Security Standards for</h2>
+  <h2>Application Development Policy</h2>
+  <p class="s1">Date:  11-02-10</p>
+  <p class="s1">Approved by: Tom Pelham</p>
+  <p class="s1">Policy Number:</p>
+  <h1>1.0 Introduction</h1>
+  <p>Application security encompasses measures taken throughout the application’s life- cycle to prevent exceptions in the security policy of an application or the underlying system (vulnerabilities) through flaws in the design, development, deployment, upgrade, or maintenance of the application.<br />Applications only control the use of resources granted to them, and not <i>which </i>resources are granted to them. They, in turn, determine the use of these resources by users of the application through application security.</p>
+  <h4>1.1 Authority</h4>
+  <p>The State of Vermont is authorized to undertake the development of enterprise architecture policies and standards. The Department of Information and Innovation (DII) was created in VSA 22 § 901 (1), “to provide direction and oversight for all activities directly related to information technology, including telecommunications services, information technology equipment, software, accessibility, and networks in state government.”<br />Managers, employees, records personnel, third party vendors and all others who connect to or handle State of Vermont networks and data are responsible for reviewing this policy in concert with business, legal, and information technology staff to ensure that the policy (1) meets legal requirements specific to the agency and its data and (2) can be effectively carried out by agency employees. If laws or regulations require more stringent requirements than stated in this policy, the internal policy created by the agency must explicitly state the more stringent requirements. Agencies shall not develop an internal policy with requirements lower than the minimum requirements listed in this policy.</p>
+  <h4>1.2 Purpose</h4>
+  <p>Security testing techniques search for vulnerabilities or security holes in applications. These vulnerabilities leave applications open to exploitation. Ideally, security testing is implemented throughout the entire software development life cycle (SDLC) so that vulnerabilities may be addressed in a timely and thorough manner. Unfortunately,<br />testing is often conducted as an afterthought at the end of the development cycle, or not at all.<br />The purpose of this policy is to ensure that security is built into the application from project concept through implementation for all applications administered or used by the<br />State of Vermont.</p>
+  <h4>1.3 Scope</h4>
+  <p class="s7">This policy applies to all software applications that are being developed by or for State of Vermont staff and/or consumers of State services, regardless where the infrastructure and/or data reside.</p>]]></Data>
+  </Content>
+</TeamMentor_Article>
